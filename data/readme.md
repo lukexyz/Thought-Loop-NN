@@ -1,4 +1,5 @@
 Directory for Fashion-MNIST dataset
 
-data\raw
-data\processed
+```data\raw```
+
+```data\processed```
